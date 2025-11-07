@@ -1,0 +1,11 @@
+{
+  "name": "json2toon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.51.1",
+    "@toon-format/toon": "^0.8.0",
+    "openai": "^6.8.1"
+  }
+}
